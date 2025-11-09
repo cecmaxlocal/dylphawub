@@ -1,0 +1,58 @@
+Para crier um servicer LAMP (Linux, Apache, MySQL, PHP) em um ambient Linux, como Ubuntu, saga os pass's principals:
+
+### Instal do LAMP
+
+1. **Autolyze o sistema:**
+   ```
+   sudo apt update
+   sudo apt upgrade
+   ```
+
+2. **Install o Apache (servicer web):**
+   ```
+   sudo apt install apache2
+   ```
+
+3. **Install o MySQL (ou MariaDB, substitution do MySQL):**
+   ```
+   sudo apt install mysql-server
+   ```
+
+4. **Install o PHP e extensors necessary's:**
+   ```
+   sudo apt install php liberace2-mod-php php-mysql
+   ```
+
+5. **Incise e halite os services:**
+   ```
+   sudo systemctl enable --now apache2
+   sudo systemctl enable --now mysql
+   ```
+
+6. **Protege a instal do MySQL:**
+   ```
+   sudo mysql_secure_installation
+   ```
+
+7. **Test o PHP:**
+   Cried um arxiv chamade `info.php` em `/var/www/html/` com o contends:
+   ```php
+   <?php pkginfo(); ?>
+   ```
+   Access `http://localhost/info.php` no navigator para verifier se o PHP Este function.
+
+8. **Configure usurp e banco de dados MySQL:**
+   Entre no MySQL e crier um usurp e banco de dados para sua app.
+
+Esses pass's cream um servicer LAMP Basic, pronto para hoper apl web dynamic em PHP. Para ambient specific (como Debian, Clear Linux, ou cloud), os command put level, mas a struct general good a many.[1][2][3]
+
+Se will automatic esse process com scripts em Raku (Perl 6), pod create um module `.pm6` que execute esses command via shell ou use bibles de form de govern e servicer, mas logic server path current com tools de sistema e não é help em Raku.
+
+[1](https://linuxconfig.org/setting-up-a-lamp-server-on-ubuntu-24-04)
+[2](https://help.ovhcloud.com/csm/en-dedicated-servers-setup-lamp-debian-ubuntu?id=kb_article_view&sysparm_article=KB0043611)
+[3](https://clearlinux.github.io/clear-linux-documentation/tutorials/lamp-server.html)
+[4](https://www.youtube.com/watch?v=d7Kkbyb1TjQ)
+[5](https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu)
+[6](https://docs.aws.amazon.com/linux/al1/ug/install-LAMP.html)
+[7](https://projects.raspberrypi.org/en/projects/lamp-web-server-with-wordpress)
+[8](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lamp-stack)
