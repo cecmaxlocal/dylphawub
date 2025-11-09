@@ -1,0 +1,25 @@
+The Raku programming language is licensed under the **Artistic License 2.0**. This license allows users to freely copy, modify, distribute, and redistribute Raku, with the intent that the copyright holder maintains some artistic control over its development while keeping it open source and free software.
+
+Key points about the Artistic License 2.0 for Raku:
+- You may create and use modified versions for any purpose without restriction if you do not distribute them.
+- When distributing modified versions, you must clearly document how your version differs from the standard one, not prevent users from running the standard Raku, and not claim your version as the standard.
+- The license permits redistribution either gratis or for a reasonable distributor fee.
+- It is compatible with GNU GPL licenses, so no dual licensing is necessary (unlike Perl 5).
+- The license balances openness with controlled governance to maintain Raku’s identity and quality.
+
+Rakudo, the primary compiler for Raku, is also released under this Artistic License 2.0 and regularly updated.
+
+For full license text and detailed permissions, consult the Artistic License 2.0 document maintained by the Perl Foundation and the official Raku documentation sites.[1][2][3]
+
+In summary, Raku’s Artistic License 2.0 fosters open-source collaboration while preserving controlled stewardship of the language.
+
+[1](https://www.perlfoundation.org/artistic-notes-20.html)
+[2](https://docs.raku.org/license)
+[3](https://rakudo.org/about/)
+[4](https://raku.guide)
+[5](https://en.wikipedia.org/wiki/Raku_(programming_language))
+[6](https://raku.github.io/Documentable/language.html)
+[7](https://docs.raku.org/language/glossary)
+[8](https://en.wikibooks.org/wiki/Raku_Programming/Printable_version)
+[9](http://megalinter.io/5.1.0/license/)
+[10](https://new-raku.finanalyst.org)

@@ -1,0 +1,24 @@
+The term "CEC license" can relate to different contexts depending on the domain, but commonly it refers to licensing related to:
+
+1. **HDMI CEC (Consumer Electronics Control) Protocol**:  
+   - The HDMI CEC protocol, which allows HDMI devices to control each other, often uses software and libraries licensed under open-source licenses like the GNU General Public License (GPL) version 2 or BSD licenses.  
+   - For example, open-source CEC related software like libCEC is dual licensed under GPLv2 and commercial licenses, enabling free use in personal projects and licensed use in larger-scale commercial applications.[1][3][4]
+
+2. **California Energy Commission (CEC)**:  
+   - In the context of energy and distributed resources, CEC licenses may refer to certifications or licenses related to energy devices or software compliant with California regulations. These may involve open-source software projects dedicated to smart grid and distributed energy resource communications, often under permissive open-source licenses promoting interoperability.[2]
+
+So, the specific “CEC license” depends on your precise domain of interest:
+
+- For **HDMI CEC protocol software**, expect common open-source licenses like GPLv2 or BSD.  
+- For **California Energy Commission projects or software**, licenses tend to be open source, promoting wide usage and compliance.
+
+Please specify if you mean a particular product or field for a more tailored license description.
+
+[1](https://github.com/nccgroup/CECster)
+[2](https://www.energy.ca.gov/sites/default/files/2021-05/CEC-500-2020-025.pdf)
+[3](https://www.kernel.org/doc/html/v4.9/media/uapi/cec/cec-header.html)
+[4](https://libcec.pulse-eight.com)
+[5](https://source.android.com/docs/devices/tv/hdmi-cec)
+[6](https://android.googlesource.com/platform/hardware/libhardware/+/lollipop-dev/include/hardware/hdmi_cec.h)
+[7](https://www.webosose.org/docs/reference/ls2-api/com-webos-service-cec/)
+[8](https://github.com/floe/CEC)

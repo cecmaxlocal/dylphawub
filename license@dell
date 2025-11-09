@@ -1,0 +1,32 @@
+Dell machines typically come with pre-installed operating systems and software that are covered by specific licenses. Here are the main license aspects related to Dell machines:
+
+1. **Operating System License:**
+   - Most Dell computers include a Microsoft Windows license (OEM license), which is tied to the hardware.
+   - This license allows the use of Windows but restricts transferring it to another computer.
+   - Dell also offers machines with Linux distributions (like Ubuntu), where licenses are governed by the open-source licenses of those distributions.
+
+2. **Software Licenses:**
+   - Dell pre-installs various software packages which may have their own licenses (trial versions often require purchase after a period).
+   - Drivers and utilities provided by Dell are usually licensed for use only on Dell hardware.
+
+3. **License Transfers and Upgrades:**
+   - OEM licenses generally cannot be transferred to different machines.
+   - You are allowed to upgrade the software but must comply with the license terms of the original software vendor (e.g., Microsoft).
+
+4. **Enterprise Licenses:**
+   - Dell offers volume and enterprise licenses for business customers, often under agreements like Microsoft Volume Licensing.
+
+5. **Open Source Licenses:**
+   - Dell hardware components or tools might include open-source software licensed under various open licenses (GPL, MIT, Apache), allowing modification and redistribution under those terms.
+
+For detailed license terms of specific Dell machines, it’s recommended to review the licensing agreements provided with the purchase, consult Dell’s official documentation, or contact Dell support. This ensures compliance with software usage and warranties related to the hardware and included software.[1][2][4]
+
+[1](https://www.perlfoundation.org/artistic-notes-20.html)
+[2](https://rakudo.org/about/)
+[3](https://en.wikipedia.org/wiki/Raku_(programming_language))
+[4](https://docs.raku.org/license)
+[5](https://raku.guide)
+[6](https://en.wikibooks.org/wiki/Raku_Programming/Printable_version)
+[7](https://www.kashipara.com/software/view/raku--programming-languages_267)
+[8](https://raku.org)
+[9](https://www.perlfoundation.org/license-faq.html)

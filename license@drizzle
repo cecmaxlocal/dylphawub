@@ -1,0 +1,15 @@
+Drizzle, the now-discontinued open-source relational database management system forked from MySQL, is primarily licensed under versions 2 and 3 of the GNU General Public License (GPL). Some components of Drizzle, including protocol drivers and replication messaging, are licensed under the BSD license. 
+
+This dual licensing means:
+- The core Drizzle database is covered by GPLv2 or GPLv3, which mandates that any derivative works also be open source under similar terms.
+- Portions like client libraries and protocol-related code may be used more permissively under the BSD license, allowing broader reuse without strict copyleft requirements.
+
+In summary, Drizzle’s licensing combines GPL for the main database system with BSD for some components, reflecting a balance between strong copyleft and permissive open-source licenses.[1][2][3][7]
+
+[1](https://dbpedia.org/page/Drizzle_(database_server))
+[2](https://handwiki.org/wiki/Software:Drizzle_(database_server))
+[3](https://en.wikipedia.org/wiki/Drizzle_(database_server))
+[4](https://everything.explained.today/Drizzle_(database)/)
+[5](https://directory.fsf.org/wiki/Drizzle)
+[6](https://orm.drizzle.team/docs/get-started)
+[7](https://github.com/drizzle-team/drizzle-orm/blob/main/LICENSE)
